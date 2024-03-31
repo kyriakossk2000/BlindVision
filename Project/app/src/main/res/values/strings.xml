@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BlindVision</string>
+    <string name="home">HOME</string>
+    <string name="start">START</string>
+    <string name="blind_navigator">BlindVision</string>
+    <string name="object">Scene</string>
+    <string name="text">Text</string>
+    <string name="detection_mode">Detection Mode</string>
+    <string name="default_mode">Default</string>
+</resources>
